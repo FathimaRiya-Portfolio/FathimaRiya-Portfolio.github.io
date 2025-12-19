@@ -30,4 +30,14 @@ A set of supervised learning models developed to assess risk patterns and suppor
 - Python, SQL  
 - Data Analytics & Visualization  
 - Machine Learning & Statistical Modeling  
-- Power BI / Tableau  
+- Power BI / Tableau
+
+## Contact
+
+Email: yourname@email.com  
+Phone: +973 34309792  
+Location: Bahrain  
+
+LinkedIn: www.linkedin.com/in/fathima-riya-541306230
+GitHub: https://github.com/FathimaRiya-Portfolio/FathimaRiya-Portfolio.github.io/tree/main
+
