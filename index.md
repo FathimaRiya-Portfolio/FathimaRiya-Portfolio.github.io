@@ -49,7 +49,7 @@ A set of supervised learning models developed to assess risk patterns and suppor
 
 ## Contact
 
-Email: riyanoushad333@email.com  
+Email: riyanoushad333@gmail.com  
 Phone: +973 34309792  
 Location: Bahrain  
 
