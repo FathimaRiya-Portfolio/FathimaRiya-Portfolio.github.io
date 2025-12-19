@@ -1,4 +1,4 @@
-# Fatima Rhea
+# Fathima Riya
 
 Data Scientist | Data Analytics | Machine Learning
 
