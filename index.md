@@ -10,6 +10,8 @@ Welcome to my portfolio website. This space highlights selected projects, skills
 I work with structured and unstructured data to extract insights, build predictive models, and support data-driven decision making. My work spans analytics, visualization, and applied machine learning across diverse datasets.
 
 
+
+
 ## Work Experience
 
 - Data Science Intern – DataSpark Ltd, India  
@@ -22,7 +24,7 @@ I work with structured and unstructured data to extract insights, build predicti
 
 
 
-# Projects
+## Projects
 
 ### Predictive Modeling for Islamic Digital Banking
 A machine learning–based analytical project focused on identifying risk patterns and improving system-level security decision support using structured transactional and behavioral data.
