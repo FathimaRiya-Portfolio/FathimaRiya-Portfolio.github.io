@@ -8,11 +8,9 @@ Welcome to my portfolio website. This space highlights selected projects, skills
 I work with structured and unstructured data to extract insights, build predictive models, and support data-driven decision making. My work spans analytics, visualization, and applied machine learning across diverse datasets.
 
 ## Projects
-- Predictive Modeling for Financial Systems Security  
-- Urban Energy Consumption and Price Analysis  
-- Workforce Analytics and Performance Insights  
-- Retail Sales and Operational Analytics  
-- Medical Risk Prediction using Machine Learning  
+## Projects
+You can explore selected project summaries here:
+[View Projects](projects.md)
 
 ## Skills
 - Python, SQL  
