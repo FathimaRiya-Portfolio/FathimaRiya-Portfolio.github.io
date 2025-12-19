@@ -15,7 +15,7 @@ I work with structured and unstructured data to extract insights, build predicti
 ## Work Experience
 
 
-- Data Analytics Intern – Khaleeji Bank, Bahrain  
+- Risk Analyst Intern – Khaleeji Bank, Bahrain  
   Recently started a role focused on data analysis, reporting, and actionable insights for business decision support.
   
 - Data Science Intern – DataSpark Ltd, India  
