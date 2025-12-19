@@ -14,11 +14,12 @@ I work with structured and unstructured data to extract insights, build predicti
 
 ## Work Experience
 
+
+- Data Analytics Intern – Khaleeji Bank, Bahrain  
+  Recently started a role focused on data analysis, reporting, and actionable insights for business decision support.
+  
 - Data Science Intern – DataSpark Ltd, India  
   Worked on data preprocessing, exploratory analysis, and machine learning models for applied data science use cases.
-
-- Incoming Data Analytics Intern – Khaleeji Bank, Bahrain 
-  Scheduled to begin an analytics-focused role involving data analysis, reporting, and insight generation within a banking environment.
 
 
 
@@ -41,6 +42,8 @@ A data visualization and analytics project aimed at understanding sales behavior
 ### Medical Risk Prediction using Machine Learning
 A set of supervised learning models developed to assess risk patterns and support early-stage prediction using clinical and health-related datasets.
 
+
+
 ## Skills
 - Python, SQL  
 - Data Analytics & Visualization  
@@ -54,5 +57,6 @@ Phone: +973 34309792
 Location: Bahrain  
 
 LinkedIn: www.linkedin.com/in/fathima-riya-541306230
+
 GitHub: https://github.com/FathimaRiya-Portfolio/FathimaRiya-Portfolio.github.io/tree/main
 
