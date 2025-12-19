@@ -1,3 +1,5 @@
+<img src="Riya new photo.jpg" alt="Profile Photo" width="180" style="border-radius:50%;">
+
 # Fathima Riya
 
 Data Scientist | Data Analytics | Machine Learning
@@ -7,14 +9,25 @@ Welcome to my portfolio website. This space highlights selected projects, skills
 ## About
 I work with structured and unstructured data to extract insights, build predictive models, and support data-driven decision making. My work spans analytics, visualization, and applied machine learning across diverse datasets.
 
-## Projects
-## Projects
-You can explore selected project summaries here:
-[View Projects](projects.md)
+# Projects
+
+## Predictive Modeling for Islamic Digital Banking
+A machine learning–based analytical project focused on identifying risk patterns and improving system-level security decision support using structured transactional and behavioral data.
+
+## Urban Energy Consumption and Price Analysis
+An analytical study examining trends, variability, and influencing factors in large-scale urban electricity consumption and pricing data.
+
+## Workforce Analytics and Performance Insights
+A business intelligence project analyzing workforce data to support insights into performance, retention, and operational efficiency.
+
+## Retail Sales and Operational Analytics
+A data visualization and analytics project aimed at understanding sales behavior, trends, and operational drivers in a retail environment.
+
+## Medical Risk Prediction using Machine Learning
+A set of supervised learning models developed to assess risk patterns and support early-stage prediction using clinical and health-related datasets.
 
 ## Skills
 - Python, SQL  
 - Data Analytics & Visualization  
 - Machine Learning & Statistical Modeling  
 - Power BI / Tableau  
-
